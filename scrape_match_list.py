@@ -19,7 +19,7 @@ def scrape_match_data(player_url, player_name, driver):
           table = div.find("table").find('tbody')
 
           if table:
-              rows = table.find_all("tr")[1:]
+              rows = table.find_all("tr")
               for row in rows:
                   #print(row)
                     if row.get('class')==[]:
