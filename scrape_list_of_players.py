@@ -28,7 +28,7 @@ def scrape_players(url,driver):
                 player_url = name_cell['href']
                 market_value = row.find("td",{"class": "rechts hauptlink"}).text.strip()
                 age = row.find_all("td",{"class": "zentriert"})[2].text.strip()
-                players.append({"Name": player_name, "Player Id":player_url.split('/')[-1], "URL": f"https://www.transfermarkt.com.br{player_url}", "Market Value": market_value, "Age": age})
+                players.append({"Player Name": player_name, "Player Id":player_url.split('/')[-1], "URL": f"https://www.transfermarkt.com.br{player_url}", "Market Value": market_value, "Age": age})
             except Exception as e:
                 print(f"Error parsing row: {e}")
         count +=1

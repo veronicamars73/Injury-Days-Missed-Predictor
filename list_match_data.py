@@ -16,8 +16,8 @@ players_df = pd.read_csv("assets/brasileirao_players.csv")
 # Collect match data for all players
 all_match_data = []
 for index, row in players_df.iterrows():
-    print(f"Scraping match data for: {row['Name']}")
-    matches = scrape_match_data(row["URL"], row["Name"],driver)
+    print(f"Scraping match data for: {row['Player Name']}")
+    matches = scrape_match_data(row["URL"], row["Player Name"],driver)
     all_match_data.extend(matches)
     
 # Save data to CSV

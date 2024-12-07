@@ -19,7 +19,7 @@ def scrape_injury_data(player_url, player_name, driver):
             cells = row.find_all("td")
             if len(cells)>2:
                 data = {
-                    "Player": player_name,
+                    "Player Name": player_name,
                     "Player Id": player_url.split('/')[-1],
                     "Injury Type": cells[1].text.strip(),
                     "From Date": cells[2].text.strip(),

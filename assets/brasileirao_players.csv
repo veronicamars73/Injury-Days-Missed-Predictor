@@ -1,29 +1,29 @@
-Name,Player Id,URL,Market Value,Age,Position
+Player Name,Player Id,URL,Market Value,Age,Position
 Agustín Rossi,352324,https://www.transfermarkt.com.br/agustin-rossi/profil/spieler/352324,"7,00 mi. €",29,Goalkeepers
 Léo Jardim,288415,https://www.transfermarkt.com.br/leo-jardim/profil/spieler/288415,"5,50 mi. €",29,Goalkeepers
 Hugo Souza,574901,https://www.transfermarkt.com.br/hugo-souza/profil/spieler/574901,"4,00 mi. €",25,Goalkeepers
 Cleiton,468247,https://www.transfermarkt.com.br/cleiton/profil/spieler/468247,"4,00 mi. €",27,Goalkeepers
-John Victor,432914,https://www.transfermarkt.com.br/john-victor/profil/spieler/432914,"3,50 mi. €",28,Goalkeepers
 Sergio Rochet,264014,https://www.transfermarkt.com.br/sergio-rochet/profil/spieler/264014,"3,50 mi. €",31,Goalkeepers
+John Victor,432914,https://www.transfermarkt.com.br/john-victor/profil/spieler/432914,"3,50 mi. €",28,Goalkeepers
 Matheus Cunha,876739,https://www.transfermarkt.com.br/matheus-cunha/profil/spieler/876739,"3,00 mi. €",23,Goalkeepers
 Matheus Donelli,708723,https://www.transfermarkt.com.br/matheus-donelli/profil/spieler/708723,"2,00 mi. €",22,Goalkeepers
-Marcos Felipe,283166,https://www.transfermarkt.com.br/marcos-felipe/profil/spieler/283166,"2,00 mi. €",28,Goalkeepers
 Weverton,69400,https://www.transfermarkt.com.br/weverton/profil/spieler/69400,"2,00 mi. €",36,Goalkeepers
+Marcos Felipe,283166,https://www.transfermarkt.com.br/marcos-felipe/profil/spieler/283166,"2,00 mi. €",28,Goalkeepers
 Everson,106032,https://www.transfermarkt.com.br/everson/profil/spieler/106032,"1,80 mi. €",34,Goalkeepers
-Gabriel Grando,878037,https://www.transfermarkt.com.br/gabriel-grando/profil/spieler/878037,"1,70 mi. €",24,Goalkeepers
 Brenno,555016,https://www.transfermarkt.com.br/brenno/profil/spieler/555016,"1,70 mi. €",25,Goalkeepers
-Mycael,743586,https://www.transfermarkt.com.br/mycael/profil/spieler/743586,"1,50 mi. €",20,Goalkeepers
+Gabriel Grando,878037,https://www.transfermarkt.com.br/gabriel-grando/profil/spieler/878037,"1,70 mi. €",24,Goalkeepers
+Adriel,808445,https://www.transfermarkt.com.br/adriel/profil/spieler/808445,"1,50 mi. €",23,Goalkeepers
+Lucão,412372,https://www.transfermarkt.com.br/lucao/profil/spieler/412372,"1,50 mi. €",23,Goalkeepers
 Ivan,364257,https://www.transfermarkt.com.br/ivan/profil/spieler/364257,"1,50 mi. €",27,Goalkeepers
 Caíque,384159,https://www.transfermarkt.com.br/caique/profil/spieler/384159,"1,50 mi. €",27,Goalkeepers
-Lucão,412372,https://www.transfermarkt.com.br/lucao/profil/spieler/412372,"1,50 mi. €",23,Goalkeepers
-Adriel,808445,https://www.transfermarkt.com.br/adriel/profil/spieler/808445,"1,50 mi. €",23,Goalkeepers
+Mycael,743586,https://www.transfermarkt.com.br/mycael/profil/spieler/743586,"1,50 mi. €",20,Goalkeepers
 Keiller,417084,https://www.transfermarkt.com.br/keiller/profil/spieler/417084,"1,30 mi. €",28,Goalkeepers
 Ronaldo,387925,https://www.transfermarkt.com.br/ronaldo/profil/spieler/387925,"1,20 mi. €",28,Goalkeepers
-Lucas Arcanjo,645602,https://www.transfermarkt.com.br/lucas-arcanjo/profil/spieler/645602,"1,00 mi. €",26,Goalkeepers
-Santos,140811,https://www.transfermarkt.com.br/santos/profil/spieler/140811,"1,00 mi. €",34,Goalkeepers
 Gabriel,79242,https://www.transfermarkt.com.br/gabriel/profil/spieler/79242,"1,00 mi. €",32,Goalkeepers
+Santos,140811,https://www.transfermarkt.com.br/santos/profil/spieler/140811,"1,00 mi. €",34,Goalkeepers
+Lucas Arcanjo,645602,https://www.transfermarkt.com.br/lucas-arcanjo/profil/spieler/645602,"1,00 mi. €",26,Goalkeepers
 Léo Linck,742034,https://www.transfermarkt.com.br/leo-linck/profil/spieler/742034,"1,00 mi. €",23,Goalkeepers
-Agustín Marchesín,54534,https://www.transfermarkt.com.br/agustin-marchesin/profil/spieler/54534,800 mil €,36,Goalkeepers
+Anthoni,869437,https://www.transfermarkt.com.br/anthoni/profil/spieler/869437,800 mil €,22,Goalkeepers
 Agustín Marchesín,54534,https://www.transfermarkt.com.br/agustin-marchesin/profil/spieler/54534,800 mil €,36,Goalkeepers
 Rafael,68097,https://www.transfermarkt.com.br/rafael/profil/spieler/68097,800 mil €,35,Goalkeepers
 Pedro Rangel,841263,https://www.transfermarkt.com.br/pedro-rangel/profil/spieler/841263,600 mil €,24,Goalkeepers
@@ -49,112 +49,112 @@ Fabrício,150479,https://www.transfermarkt.com.br/fabricio/profil/spieler/150479
 Gabriel Souza,994229,https://www.transfermarkt.com.br/gabriel-souza/profil/spieler/994229,200 mil €,20,Goalkeepers
 Fábio,22415,https://www.transfermarkt.com.br/fabio/profil/spieler/22415,200 mil €,44,Goalkeepers
 Muriel,27349,https://www.transfermarkt.com.br/muriel/profil/spieler/27349,200 mil €,37,Goalkeepers
-Gustavo Ramalho,884069,https://www.transfermarkt.com.br/gustavo-ramalho/profil/spieler/884069,100 mil €,22,Goalkeepers
-Young,894532,https://www.transfermarkt.com.br/young/profil/spieler/894532,100 mil €,22,Goalkeepers
 Alisson,375532,https://www.transfermarkt.com.br/alisson/profil/spieler/375532,100 mil €,29,Goalkeepers
+Gabriel Átila,1083089,https://www.transfermarkt.com.br/gabriel-atila/profil/spieler/1083089,100 mil €,21,Goalkeepers
 Raul,520093,https://www.transfermarkt.com.br/raul/profil/spieler/520093,100 mil €,27,Goalkeepers
 Gabriel Delfim,978121,https://www.transfermarkt.com.br/gabriel-delfim/profil/spieler/978121,100 mil €,22,Goalkeepers
-Gabriel Átila,1083089,https://www.transfermarkt.com.br/gabriel-atila/profil/spieler/1083089,100 mil €,21,Goalkeepers
-Mateus,813121,https://www.transfermarkt.com.br/mateus/profil/spieler/813121,100 mil €,22,Goalkeepers
-Emerson Junior,813038,https://www.transfermarkt.com.br/emerson-junior/profil/spieler/813038,100 mil €,24,Goalkeepers
 Felipe Scheibig,896667,https://www.transfermarkt.com.br/felipe-scheibig/profil/spieler/896667,100 mil €,24,Goalkeepers
-Lucas Wingert,570583,https://www.transfermarkt.com.br/lucas-wingert/profil/spieler/570583,50 mil €,25,Goalkeepers
+Gustavo Ramalho,884069,https://www.transfermarkt.com.br/gustavo-ramalho/profil/spieler/884069,100 mil €,22,Goalkeepers
+Mateus,813121,https://www.transfermarkt.com.br/mateus/profil/spieler/813121,100 mil €,22,Goalkeepers
+Young,894532,https://www.transfermarkt.com.br/young/profil/spieler/894532,100 mil €,22,Goalkeepers
+Emerson Junior,813038,https://www.transfermarkt.com.br/emerson-junior/profil/spieler/813038,100 mil €,24,Goalkeepers
 Rhyan,1116620,https://www.transfermarkt.com.br/rhyan/profil/spieler/1116620,50 mil €,18,Goalkeepers
+Lucas Wingert,570583,https://www.transfermarkt.com.br/lucas-wingert/profil/spieler/570583,50 mil €,25,Goalkeepers
 Fintelman,740272,https://www.transfermarkt.com.br/fintelman/profil/spieler/740272,50 mil €,23,Goalkeepers
-Léo Aragão,1022342,https://www.transfermarkt.com.br/leo-aragao/profil/spieler/1022342,50 mil €,22,Goalkeepers
 Pablo,1083887,https://www.transfermarkt.com.br/pablo/profil/spieler/1083887,50 mil €,21,Goalkeepers
+Léo Aragão,1022342,https://www.transfermarkt.com.br/leo-aragao/profil/spieler/1022342,50 mil €,22,Goalkeepers
 Joaquín Piquerez,496268,https://www.transfermarkt.com.br/joaquin-piquerez/profil/spieler/496268,"13,00 mi. €",26,Defenders
 Guilherme Arana,346766,https://www.transfermarkt.com.br/guilherme-arana/profil/spieler/346766,"12,00 mi. €",27,Defenders
-Vitor Reis,1005575,https://www.transfermarkt.com.br/vitor-reis/profil/spieler/1005575,"10,00 mi. €",18,Defenders
 Matías Viña,439072,https://www.transfermarkt.com.br/matias-vina/profil/spieler/439072,"10,00 mi. €",27,Defenders
+Vitor Reis,1005575,https://www.transfermarkt.com.br/vitor-reis/profil/spieler/1005575,"10,00 mi. €",18,Defenders
 Léo Pereira,288431,https://www.transfermarkt.com.br/leo-pereira/profil/spieler/288431,"9,00 mi. €",28,Defenders
 Murilo,458710,https://www.transfermarkt.com.br/murilo/profil/spieler/458710,"9,00 mi. €",27,Defenders
 Léo Ortiz,374136,https://www.transfermarkt.com.br/leo-ortiz/profil/spieler/374136,"9,00 mi. €",28,Defenders
+Vitão,428783,https://www.transfermarkt.com.br/vitao/profil/spieler/428783,"8,00 mi. €",24,Defenders
 Agustín Giay,849582,https://www.transfermarkt.com.br/agustin-giay/profil/spieler/849582,"8,00 mi. €",20,Defenders
 Júnior Alonso,273000,https://www.transfermarkt.com.br/junior-alonso/profil/spieler/273000,"8,00 mi. €",31,Defenders
 Lucas Piton,670201,https://www.transfermarkt.com.br/lucas-piton/profil/spieler/670201,"8,00 mi. €",24,Defenders
 Ayrton Lucas,349585,https://www.transfermarkt.com.br/ayrton-lucas/profil/spieler/349585,"8,00 mi. €",27,Defenders
-Vitão,428783,https://www.transfermarkt.com.br/vitao/profil/spieler/428783,"8,00 mi. €",24,Defenders
 Luan Cândido,432166,https://www.transfermarkt.com.br/luan-candido/profil/spieler/432166,"7,00 mi. €",23,Defenders
 Gustavo Gómez,215390,https://www.transfermarkt.com.br/gustavo-gomez/profil/spieler/215390,"7,00 mi. €",31,Defenders
-Wesley,964580,https://www.transfermarkt.com.br/wesley/profil/spieler/964580,"6,00 mi. €",21,Defenders
 Fabrício Bruno,432773,https://www.transfermarkt.com.br/fabricio-bruno/profil/spieler/432773,"6,00 mi. €",28,Defenders
 Alex Telles,255755,https://www.transfermarkt.com.br/alex-telles/profil/spieler/255755,"6,00 mi. €",31,Defenders
+Wesley,964580,https://www.transfermarkt.com.br/wesley/profil/spieler/964580,"6,00 mi. €",21,Defenders
+Marlon,406675,https://www.transfermarkt.com.br/marlon/profil/spieler/406675,"5,00 mi. €",27,Defenders
 Vitinho,468249,https://www.transfermarkt.com.br/vitinho/profil/spieler/468249,"5,00 mi. €",25,Defenders
 João Victor,671145,https://www.transfermarkt.com.br/joao-victor/profil/spieler/671145,"5,00 mi. €",26,Defenders
-Marlon,406675,https://www.transfermarkt.com.br/marlon/profil/spieler/406675,"5,00 mi. €",27,Defenders
 Félix Torres,468174,https://www.transfermarkt.com.br/felix-torres/profil/spieler/468174,"4,50 mi. €",27,Defenders
+Vanderlan,816129,https://www.transfermarkt.com.br/vanderlan/profil/spieler/816129,"4,00 mi. €",22,Defenders
+Hugo,740157,https://www.transfermarkt.com.br/hugo/profil/spieler/740157,"4,00 mi. €",23,Defenders
+Eros Mancuso,888545,https://www.transfermarkt.com.br/eros-mancuso/profil/spieler/888545,"4,00 mi. €",25,Defenders
 Adryelson,373433,https://www.transfermarkt.com.br/adryelson/profil/spieler/373433,"4,00 mi. €",26,Defenders
 Iago,520468,https://www.transfermarkt.com.br/iago/profil/spieler/520468,"4,00 mi. €",27,Defenders
 Matheuzinho,594226,https://www.transfermarkt.com.br/matheuzinho/profil/spieler/594226,"4,00 mi. €",24,Defenders
 João Marcelo,744024,https://www.transfermarkt.com.br/joao-marcelo/profil/spieler/744024,"4,00 mi. €",24,Defenders
-Vanderlan,816129,https://www.transfermarkt.com.br/vanderlan/profil/spieler/816129,"4,00 mi. €",22,Defenders
-Rubens,843397,https://www.transfermarkt.com.br/rubens/profil/spieler/843397,"4,00 mi. €",23,Defenders
-Adryelson,373433,https://www.transfermarkt.com.br/adryelson/profil/spieler/373433,"4,00 mi. €",26,Defenders
-Hugo,740157,https://www.transfermarkt.com.br/hugo/profil/spieler/740157,"4,00 mi. €",23,Defenders
-João Marcelo,744024,https://www.transfermarkt.com.br/joao-marcelo/profil/spieler/744024,"4,00 mi. €",24,Defenders
+João Pedro,342024,https://www.transfermarkt.com.br/joao-pedro/profil/spieler/342024,"4,00 mi. €",28,Defenders
 William,341710,https://www.transfermarkt.com.br/william/profil/spieler/341710,"4,00 mi. €",29,Defenders
+Rubens,843397,https://www.transfermarkt.com.br/rubens/profil/spieler/843397,"4,00 mi. €",23,Defenders
 Leonardo Godoy,369556,https://www.transfermarkt.com.br/leonardo-godoy/profil/spieler/369556,"3,80 mi. €",29,Defenders
-Kanu,524446,https://www.transfermarkt.com.br/kanu/profil/spieler/524446,"3,50 mi. €",27,Defenders
-Pedro Henrique,329720,https://www.transfermarkt.com.br/pedro-henrique/profil/spieler/329720,"3,50 mi. €",29,Defenders
-Caio Paulista,601011,https://www.transfermarkt.com.br/caio-paulista/profil/spieler/601011,"3,50 mi. €",26,Defenders
+Zé Ivaldo,484848,https://www.transfermarkt.com.br/ze-ivaldo/profil/spieler/484848,"3,50 mi. €",27,Defenders
 Cuiabano,891353,https://www.transfermarkt.com.br/cuiabano/profil/spieler/891353,"3,50 mi. €",21,Defenders
 Jamal Lewis,346018,https://www.transfermarkt.com.br/jamal-lewis/profil/spieler/346018,"3,50 mi. €",26,Defenders
+Kanu,524446,https://www.transfermarkt.com.br/kanu/profil/spieler/524446,"3,50 mi. €",27,Defenders
+Pedro Henrique,329720,https://www.transfermarkt.com.br/pedro-henrique/profil/spieler/329720,"3,50 mi. €",29,Defenders
 Nahuel Ferraresi,466336,https://www.transfermarkt.com.br/nahuel-ferraresi/profil/spieler/466336,"3,50 mi. €",26,Defenders
+Caio Paulista,601011,https://www.transfermarkt.com.br/caio-paulista/profil/spieler/601011,"3,50 mi. €",26,Defenders
 Welington,729264,https://www.transfermarkt.com.br/welington/profil/spieler/729264,"3,50 mi. €",23,Defenders
-Zé Ivaldo,484848,https://www.transfermarkt.com.br/ze-ivaldo/profil/spieler/484848,"3,50 mi. €",27,Defenders
-Diego Palacios,425567,https://www.transfermarkt.com.br/diego-palacios/profil/spieler/425567,"3,00 mi. €",25,Defenders
-Gilberto,231614,https://www.transfermarkt.com.br/gilberto/profil/spieler/231614,"3,00 mi. €",31,Defenders
-Juninho Capixaba,406676,https://www.transfermarkt.com.br/juninho-capixaba/profil/spieler/406676,"3,00 mi. €",27,Defenders
-Rodrigo Ely,176140,https://www.transfermarkt.com.br/rodrigo-ely/profil/spieler/176140,"3,00 mi. €",31,Defenders
 Gustavo Martins,874223,https://www.transfermarkt.com.br/gustavo-martins/profil/spieler/874223,"3,00 mi. €",22,Defenders
+Juninho Capixaba,406676,https://www.transfermarkt.com.br/juninho-capixaba/profil/spieler/406676,"3,00 mi. €",27,Defenders
 Guga,592344,https://www.transfermarkt.com.br/guga/profil/spieler/592344,"3,00 mi. €",26,Defenders
-Lyanco,379807,https://www.transfermarkt.com.br/lyanco/profil/spieler/379807,"3,00 mi. €",27,Defenders
+Rodrigo Ely,176140,https://www.transfermarkt.com.br/rodrigo-ely/profil/spieler/176140,"3,00 mi. €",31,Defenders
+Gilberto,231614,https://www.transfermarkt.com.br/gilberto/profil/spieler/231614,"3,00 mi. €",31,Defenders
+Diego Palacios,425567,https://www.transfermarkt.com.br/diego-palacios/profil/spieler/425567,"3,00 mi. €",25,Defenders
 Mayke,147361,https://www.transfermarkt.com.br/mayke/profil/spieler/147361,"3,00 mi. €",32,Defenders
+Lyanco,379807,https://www.transfermarkt.com.br/lyanco/profil/spieler/379807,"3,00 mi. €",27,Defenders
+Kaique Rocha,633377,https://www.transfermarkt.com.br/kaique-rocha/profil/spieler/633377,"3,00 mi. €",23,Defenders
 Lucas Esquivel,829969,https://www.transfermarkt.com.br/lucas-esquivel/profil/spieler/829969,"3,00 mi. €",23,Defenders
-Lucas Halter,468302,https://www.transfermarkt.com.br/lucas-halter/profil/spieler/468302,"3,00 mi. €",24,Defenders
-Mayke,147361,https://www.transfermarkt.com.br/mayke/profil/spieler/147361,"3,00 mi. €",32,Defenders
-Lyanco,379807,https://www.transfermarkt.com.br/lyanco/profil/spieler/379807,"3,00 mi. €",27,Defenders
-Renzo Saravia,268642,https://www.transfermarkt.com.br/renzo-saravia/profil/spieler/268642,"2,50 mi. €",31,Defenders
-Igor Vinícius,552240,https://www.transfermarkt.com.br/igor-vinicius/profil/spieler/552240,"2,50 mi. €",27,Defenders
-Ruan Tressoldi,555015,https://www.transfermarkt.com.br/ruan-tressoldi/profil/spieler/555015,"2,50 mi. €",25,Defenders
-Alexander Barboza,379752,https://www.transfermarkt.com.br/alexander-barboza/profil/spieler/379752,"2,50 mi. €",29,Defenders
-Mauricio Lemos,303140,https://www.transfermarkt.com.br/mauricio-lemos/profil/spieler/303140,"2,50 mi. €",28,Defenders
-Santiago Arias,120443,https://www.transfermarkt.com.br/santiago-arias/profil/spieler/120443,"2,50 mi. €",32,Defenders
-André Ramalho,175792,https://www.transfermarkt.com.br/andre-ramalho/profil/spieler/175792,"2,50 mi. €",32,Defenders
-Léo,403296,https://www.transfermarkt.com.br/leotm/profil/spieler/403296,"2,50 mi. €",28,Defenders
-Luciano Juba,676035,https://www.transfermarkt.com.br/luciano-juba/profil/spieler/676035,"2,50 mi. €",25,Defenders
-Lucas Cunha,355496,https://www.transfermarkt.com.br/lucas-cunha/profil/spieler/355496,"2,50 mi. €",27,Defenders
-Felipe Jonatan,587786,https://www.transfermarkt.com.br/felipe-jonatan/profil/spieler/587786,"2,50 mi. €",26,Defenders
-Gabriel Xavier,740501,https://www.transfermarkt.com.br/gabriel-xavier/profil/spieler/740501,"2,50 mi. €",23,Defenders
-João Moreira,929866,https://www.transfermarkt.com.br/joao-moreira/profil/spieler/929866,"2,50 mi. €",20,Defenders
-Ramon,663578,https://www.transfermarkt.com.br/ramon/profil/spieler/663578,"2,50 mi. €",23,Defenders
+Alan Franco,503343,https://www.transfermarkt.com.br/alan-franco/profil/spieler/503343,"3,00 mi. €",28,Defenders
+Diego Palacios,425567,https://www.transfermarkt.com.br/diego-palacios/profil/spieler/425567,"3,00 mi. €",25,Defenders
 José Luis Rodríguez,430339,https://www.transfermarkt.com.br/jose-luis-rodriguez/profil/spieler/430339,"2,50 mi. €",27,Defenders
+Felipe Jonatan,587786,https://www.transfermarkt.com.br/felipe-jonatan/profil/spieler/587786,"2,50 mi. €",26,Defenders
+Léo,403296,https://www.transfermarkt.com.br/leotm/profil/spieler/403296,"2,50 mi. €",28,Defenders
+Renzo Saravia,268642,https://www.transfermarkt.com.br/renzo-saravia/profil/spieler/268642,"2,50 mi. €",31,Defenders
+Mauricio Lemos,303140,https://www.transfermarkt.com.br/mauricio-lemos/profil/spieler/303140,"2,50 mi. €",28,Defenders
+João Moreira,929866,https://www.transfermarkt.com.br/joao-moreira/profil/spieler/929866,"2,50 mi. €",20,Defenders
+Ruan Tressoldi,555015,https://www.transfermarkt.com.br/ruan-tressoldi/profil/spieler/555015,"2,50 mi. €",25,Defenders
+Igor Vinícius,552240,https://www.transfermarkt.com.br/igor-vinicius/profil/spieler/552240,"2,50 mi. €",27,Defenders
+Santiago Arias,120443,https://www.transfermarkt.com.br/santiago-arias/profil/spieler/120443,"2,50 mi. €",32,Defenders
+Luciano Juba,676035,https://www.transfermarkt.com.br/luciano-juba/profil/spieler/676035,"2,50 mi. €",25,Defenders
+Gabriel Xavier,740501,https://www.transfermarkt.com.br/gabriel-xavier/profil/spieler/740501,"2,50 mi. €",23,Defenders
+Ramon,663578,https://www.transfermarkt.com.br/ramon/profil/spieler/663578,"2,50 mi. €",23,Defenders
+Alexander Barboza,379752,https://www.transfermarkt.com.br/alexander-barboza/profil/spieler/379752,"2,50 mi. €",29,Defenders
+Lucas Cunha,355496,https://www.transfermarkt.com.br/lucas-cunha/profil/spieler/355496,"2,50 mi. €",27,Defenders
+André Ramalho,175792,https://www.transfermarkt.com.br/andre-ramalho/profil/spieler/175792,"2,50 mi. €",32,Defenders
 Esquerdinha,1004737,https://www.transfermarkt.com.br/esquerdinha/profil/spieler/1004737,"2,20 mi. €",18,Defenders
-Mateo Gamarra,661245,https://www.transfermarkt.com.br/mateo-gamarra/profil/spieler/661245,"2,00 mi. €",24,Defenders
-Bruno Fuchs,563692,https://www.transfermarkt.com.br/bruno-fuchs/profil/spieler/563692,"2,00 mi. €",25,Defenders
-Robert Rojas,527494,https://www.transfermarkt.com.br/robert-rojas/profil/spieler/527494,"2,00 mi. €",28,Defenders
-Wagner Leonardo,671572,https://www.transfermarkt.com.br/wagner-leonardo/profil/spieler/671572,"2,00 mi. €",25,Defenders
-Lucas Villalba,240913,https://www.transfermarkt.com.br/lucas-villalba/profil/spieler/240913,"2,00 mi. €",30,Defenders
+Leandrinho,1083885,https://www.transfermarkt.com.br/leandrinho/profil/spieler/1083885,"2,00 mi. €",19,Defenders
 Alexandro Bernabei,719635,https://www.transfermarkt.com.br/alexandro-bernabei/profil/spieler/719635,"2,00 mi. €",24,Defenders
+Nathan,740273,https://www.transfermarkt.com.br/nathan/profil/spieler/740273,"2,00 mi. €",23,Defenders
+Braian Aguirre,829378,https://www.transfermarkt.com.br/braian-aguirre/profil/spieler/829378,"2,00 mi. €",24,Defenders
+Alex Sandro,79960,https://www.transfermarkt.com.br/alex-sandro/profil/spieler/79960,"2,00 mi. €",33,Defenders
+Lucas Villalba,240913,https://www.transfermarkt.com.br/lucas-villalba/profil/spieler/240913,"2,00 mi. €",30,Defenders
 Naves,964591,https://www.transfermarkt.com.br/naves/profil/spieler/964591,"2,00 mi. €",22,Defenders
 Thiago Almada,576028,https://www.transfermarkt.com.br/thiago-almada/profil/spieler/576028,"27,00 mi. €",23,Midfielders
 Nicolás de la Cruz,397458,https://www.transfermarkt.com.br/nicolas-de-la-cruz/profil/spieler/397458,"18,00 mi. €",27,Midfielders
 Giorgian de Arrascaeta,248410,https://www.transfermarkt.com.br/giorgian-de-arrascaeta/profil/spieler/248410,"15,00 mi. €",30,Midfielders
 Carlos Alcaraz,748319,https://www.transfermarkt.com.br/carlos-alcaraz/profil/spieler/748319,"15,00 mi. €",22,Midfielders
 Raphael Veiga,432953,https://www.transfermarkt.com.br/raphael-veiga/profil/spieler/432953,"15,00 mi. €",29,Midfielders
-Pablo Maia,892089,https://www.transfermarkt.com.br/pablo-maia/profil/spieler/892089,"14,00 mi. €",22,Midfielders
 Gerson,341705,https://www.transfermarkt.com.br/gerson/profil/spieler/341705,"14,00 mi. €",27,Midfielders
+Pablo Maia,892089,https://www.transfermarkt.com.br/pablo-maia/profil/spieler/892089,"14,00 mi. €",22,Midfielders
 Richard Ríos,735573,https://www.transfermarkt.com.br/richard-rios/profil/spieler/735573,"13,00 mi. €",24,Midfielders
 Lorran,1009030,https://www.transfermarkt.com.br/lorran/profil/spieler/1009030,"12,00 mi. €",18,Midfielders
 Mauricio,678439,https://www.transfermarkt.com.br/mauricio/profil/spieler/678439,"12,00 mi. €",23,Midfielders
 Franco Cristaldo,332259,https://www.transfermarkt.com.br/franco-cristaldo/profil/spieler/332259,"10,00 mi. €",28,Midfielders
 Mathías Villasanti,436385,https://www.transfermarkt.com.br/mathias-villasanti/profil/spieler/436385,"10,00 mi. €",27,Midfielders
 Aníbal Moreno,642758,https://www.transfermarkt.com.br/anibal-moreno/profil/spieler/642758,"10,00 mi. €",25,Midfielders
-Rodrigo Garro,565009,https://www.transfermarkt.com.br/rodrigo-garro/profil/spieler/565009,"9,00 mi. €",26,Midfielders
 Matías Zaracho,480774,https://www.transfermarkt.com.br/matias-zaracho/profil/spieler/480774,"9,00 mi. €",26,Midfielders
-Rodrigo Nestor,468304,https://www.transfermarkt.com.br/rodrigo-nestor/profil/spieler/468304,"9,00 mi. €",24,Midfielders
+Rodrigo Garro,565009,https://www.transfermarkt.com.br/rodrigo-garro/profil/spieler/565009,"9,00 mi. €",26,Midfielders
 Martinelli,815558,https://www.transfermarkt.com.br/martinelli/profil/spieler/815558,"9,00 mi. €",23,Midfielders
+Rodrigo Nestor,468304,https://www.transfermarkt.com.br/rodrigo-nestor/profil/spieler/468304,"9,00 mi. €",24,Midfielders
 Matheus Pereira,225984,https://www.transfermarkt.com.br/matheus-pereira/profil/spieler/225984,"8,50 mi. €",28,Midfielders
 Matheus Henrique,552549,https://www.transfermarkt.com.br/matheus-henrique/profil/spieler/552549,"8,50 mi. €",26,Midfielders
 Gustavo Scarpa,330085,https://www.transfermarkt.com.br/gustavo-scarpa/profil/spieler/330085,"8,00 mi. €",30,Midfielders
@@ -162,7 +162,7 @@ Gabriel Menino,608216,https://www.transfermarkt.com.br/gabriel-menino/profil/spi
 Philippe Coutinho,80444,https://www.transfermarkt.com.br/philippe-coutinho/profil/spieler/80444,"7,50 mi. €",32,Midfielders
 Christian,658678,https://www.transfermarkt.com.br/christian/profil/spieler/658678,"7,00 mi. €",23,Midfielders
 Jean Lucas,578872,https://www.transfermarkt.com.br/jean-lucas/profil/spieler/578872,"7,00 mi. €",26,Midfielders
-Giuliano Galoppo,567249,https://www.transfermarkt.com.br/giuliano-galoppo/profil/spieler/567249,"6,50 mi. €",25,Midfielders
+Caio Alexandre,727751,https://www.transfermarkt.com.br/caio-alexandre/profil/spieler/727751,"6,50 mi. €",25,Midfielders
 Caio Alexandre,727751,https://www.transfermarkt.com.br/caio-alexandre/profil/spieler/727751,"6,50 mi. €",25,Midfielders
 Miguel Monsalve,828045,https://www.transfermarkt.com.br/miguel-monsalve/profil/spieler/828045,"6,00 mi. €",20,Midfielders
 Jefferson Savarino,309193,https://www.transfermarkt.com.br/jefferson-savarino/profil/spieler/309193,"6,00 mi. €",28,Midfielders
@@ -223,21 +223,21 @@ Memphis Depay,167850,https://www.transfermarkt.com.br/memphis-depay/profil/spiel
 Everton,321239,https://www.transfermarkt.com.br/everton/profil/spieler/321239,"10,00 mi. €",28,Forwards
 Rony,371009,https://www.transfermarkt.com.br/rony/profil/spieler/371009,"9,00 mi. €",29,Forwards
 Luciano Rodríguez,856143,https://www.transfermarkt.com.br/luciano-rodriguez/profil/spieler/856143,"8,00 mi. €",21,Forwards
-José Manuel López,844797,https://www.transfermarkt.com.br/jose-manuel-lopez/profil/spieler/844797,"8,00 mi. €",24,Forwards
+Kauã Elias,1119009,https://www.transfermarkt.com.br/kaua-elias/profil/spieler/1119009,"8,00 mi. €",18,Forwards
+Nathan Fernandes,1083600,https://www.transfermarkt.com.br/nathan-fernandes/profil/spieler/1083600,"8,00 mi. €",19,Forwards
 Wanderson,236202,https://www.transfermarkt.com.br/wanderson/profil/spieler/236202,"8,00 mi. €",30,Forwards
 Rafael Borré,323831,https://www.transfermarkt.com.br/rafael-borre/profil/spieler/323831,"8,00 mi. €",29,Forwards
-Nathan Fernandes,1083600,https://www.transfermarkt.com.br/nathan-fernandes/profil/spieler/1083600,"8,00 mi. €",19,Forwards
-Kauã Elias,1119009,https://www.transfermarkt.com.br/kaua-elias/profil/spieler/1119009,"8,00 mi. €",18,Forwards
+José Manuel López,844797,https://www.transfermarkt.com.br/jose-manuel-lopez/profil/spieler/844797,"8,00 mi. €",24,Forwards
 Matheus Martins,668228,https://www.transfermarkt.com.br/matheus-martins/profil/spieler/668228,"7,00 mi. €",21,Forwards
-John Kennedy,856085,https://www.transfermarkt.com.br/john-kennedy/profil/spieler/856085,"7,00 mi. €",22,Forwards
-Matías Arezo,611426,https://www.transfermarkt.com.br/matias-arezo/profil/spieler/611426,"7,00 mi. €",22,Forwards
+Vitinho,670965,https://www.transfermarkt.com.br/vitinho/profil/spieler/670965,"7,00 mi. €",25,Forwards
+Thiago Borbas,743951,https://www.transfermarkt.com.br/thiago-borbas/profil/spieler/743951,"7,00 mi. €",22,Forwards
 Gabriel Veron,627221,https://www.transfermarkt.com.br/gabriel-veron/profil/spieler/627221,"7,00 mi. €",22,Forwards
 Gabriel Barbosa,244275,https://www.transfermarkt.com.br/gabriel-barbosa/profil/spieler/244275,"7,00 mi. €",28,Forwards
-Vitinho,670965,https://www.transfermarkt.com.br/vitinho/profil/spieler/670965,"7,00 mi. €",25,Forwards
 Michael,520392,https://www.transfermarkt.com.br/michael/profil/spieler/520392,"7,00 mi. €",28,Forwards
-Felipe Anderson,159372,https://www.transfermarkt.com.br/felipe-anderson/profil/spieler/159372,"7,00 mi. €",31,Forwards
-Thiago Borbas,743951,https://www.transfermarkt.com.br/thiago-borbas/profil/spieler/743951,"7,00 mi. €",22,Forwards
 Marquinhos,668268,https://www.transfermarkt.com.br/marquinhos/profil/spieler/668268,"7,00 mi. €",21,Forwards
+John Kennedy,856085,https://www.transfermarkt.com.br/john-kennedy/profil/spieler/856085,"7,00 mi. €",22,Forwards
+Yeferson Soteldo,312294,https://www.transfermarkt.com.br/yeferson-soteldo/profil/spieler/312294,"7,00 mi. €",27,Forwards
+Matías Arezo,611426,https://www.transfermarkt.com.br/matias-arezo/profil/spieler/611426,"7,00 mi. €",22,Forwards
 Yeferson Soteldo,312294,https://www.transfermarkt.com.br/yeferson-soteldo/profil/spieler/312294,"7,00 mi. €",27,Forwards
 Rayan,1012564,https://www.transfermarkt.com.br/rayan/profil/spieler/1012564,"7,00 mi. €",18,Forwards
 Matheus Nascimento,743594,https://www.transfermarkt.com.br/matheus-nascimento/profil/spieler/743594,"6,00 mi. €",20,Forwards

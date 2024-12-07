@@ -1,12 +1,8 @@
-Player,Player Id,Injury Type,From Date,Until Date,Days Missed
+Player Name,Player Id,Injury Type,From Date,Until Date,Days Missed
 Agustín Rossi,352324,Lesão no ombro,2024-12-02,2024-12-02,5
 Agustín Rossi,352324,Muskelbündelriss,2022-04-13,2022-05-02,19
 Agustín Rossi,352324,Quarentena,2021-07-22,2021-07-29,7
 Cleiton,468247,Lesão na coxa,2024-08-04,2024-08-24,20
-John Victor,432914,Lesão na coxa,2024-02-06,2024-04-02,56
-John Victor,432914,Problemas musculares,2023-10-30,2023-11-15,16
-John Victor,432914,Lesão meniscal,2021-08-03,2021-12-01,120
-John Victor,432914,Coronavírus,2021-01-10,2021-01-17,7
 Sergio Rochet,264014,Traumatismo grade costal,2024-01-16,2024-03-21,65
 Sergio Rochet,264014,Coronavírus,2022-05-16,2022-05-20,4
 Sergio Rochet,264014,Infeção no tornozelo,2022-04-08,2022-04-12,4
@@ -14,29 +10,28 @@ Sergio Rochet,264014,Lesão na mão,2021-10-23,2022-01-10,79
 Sergio Rochet,264014,Lesão desconhecida,2019-02-12,2019-02-18,6
 Sergio Rochet,264014,Lesão desconhecida,2018-11-01,2018-11-06,5
 Sergio Rochet,264014,Lesão no cotovelo,2015-09-25,2015-10-01,6
+John Victor,432914,Lesão na coxa,2024-02-06,2024-04-02,56
+John Victor,432914,Problemas musculares,2023-10-30,2023-11-15,16
+John Victor,432914,Lesão meniscal,2021-08-03,2021-12-01,120
+John Victor,432914,Coronavírus,2021-01-10,2021-01-17,7
 Everson,106032,Fratura de um dedo,2024-06-24,2024-08-06,43
 Brenno,555016,Corte na cabeça,2022-10-09,2022-10-17,8
+Lucão,412372,Lesão na coxa,2024-08-11,2024-10-18,68
 Ivan,364257,Lesão do ligamento cruzado,2024-01-21,2024-12-01,315
 Ivan,364257,Lesão do ligamento cruzado,2024-01-21,2024-09-21,244
 Ivan,364257,Lesão do punho,2020-10-30,2021-01-03,65
-Lucão,412372,Lesão na coxa,2024-08-11,2024-10-18,68
 Keiller,417084,Artroscopia,2024-06-01,2024-06-19,18
 Keiller,417084,Lesão no joelho,2024-05-02,2024-05-11,9
 Ronaldo,387925,Problemas musculares,2024-07-25,2024-08-17,23
 Ronaldo,387925,Lesão no ombro,2022-08-01,2022-08-03,2
-Lucas Arcanjo,645602,Lesão no joelho,2024-02-02,2024-03-16,43
-Santos,140811,Problemas musculares na coxa,2024-08-22,2024-08-22,107
-Santos,140811,Coronavírus,2020-11-24,2020-12-10,16
 Gabriel,79242,Problemas musculares na coxa,2024-07-15,2024-07-20,5
 Gabriel,79242,Lesão desconhecida,2022-03-08,2022-04-05,28
 Gabriel,79242,Problemas nas costas,2020-01-27,2020-02-13,17
 Gabriel,79242,Lesão no ombro,2013-08-16,2013-09-13,28
+Santos,140811,Problemas musculares na coxa,2024-08-22,2024-08-22,107
+Santos,140811,Coronavírus,2020-11-24,2020-12-10,16
+Lucas Arcanjo,645602,Lesão no joelho,2024-02-02,2024-03-16,43
 Léo Linck,742034,Traumatismo craniano,2024-08-30,2024-09-10,11
-Agustín Marchesín,54534,Lesão na coxa,2024-02-29,2024-04-01,32
-Agustín Marchesín,54534,Rotura do tendão de Aquiles,2023-02-03,2023-08-18,196
-Agustín Marchesín,54534,Lesão no joelho,2021-08-19,2021-09-26,38
-Agustín Marchesín,54534,Traumatismo grade costal,2020-10-01,2020-10-14,13
-Agustín Marchesín,54534,Problemas físicos,2016-05-16,2016-07-16,61
 Agustín Marchesín,54534,Lesão na coxa,2024-02-29,2024-04-01,32
 Agustín Marchesín,54534,Rotura do tendão de Aquiles,2023-02-03,2023-08-18,196
 Agustín Marchesín,54534,Lesão no joelho,2021-08-19,2021-09-26,38
@@ -79,7 +74,6 @@ Joaquín Piquerez,496268,Síndrome gripal,2017-06-02,2017-06-08,6
 Guilherme Arana,346766,Entorse do tornozelo,2024-11-14,2024-11-25,11
 Guilherme Arana,346766,Problemas musculares na coxa,2024-10-03,2024-10-18,15
 Guilherme Arana,346766,Lesão do ligamento cruzado,2022-09-12,2023-05-15,245
-Vitor Reis,1005575,Lesão muscular,2024-08-22,2024-09-14,23
 Matías Viña,439072,Lesão no joelho,2024-08-12,2024-08-12,117
 Matías Viña,439072,Problemas no Joelho,2023-12-11,2024-02-19,70
 Matías Viña,439072,Lesão nos adutores,2021-11-03,2021-11-26,23
@@ -91,6 +85,7 @@ Matías Viña,439072,Coronavírus,2020-11-15,2020-11-28,13
 Matías Viña,439072,Lesão na cabeça,2020-07-23,2020-08-04,12
 Matías Viña,439072,Problemas musculares,2020-02-29,2020-03-06,6
 Matías Viña,439072,Lesão no pé,2020-01-21,2020-02-10,20
+Vitor Reis,1005575,Lesão muscular,2024-08-22,2024-09-14,23
 Léo Pereira,288431,Problemas musculares na coxa,2024-12-02,2024-12-02,5
 Léo Pereira,288431,Problemas no Joelho,2024-08-29,2024-09-11,13
 Léo Pereira,288431,Lesão na coxa,2024-05-19,2024-05-29,10
@@ -105,6 +100,11 @@ Murilo,458710,Lesão muscular,2021-11-29,2021-12-31,32
 Murilo,458710,Lesão muscular,2021-09-17,2021-11-01,45
 Murilo,458710,Traumatismo,2021-07-31,2021-08-30,30
 Léo Ortiz,374136,Lesão do ligamento cruzado,2022-10-03,2023-07-14,284
+Vitão,428783,Lesão na coxa,2024-07-16,2024-08-03,18
+Vitão,428783,Lesão na coxa,2023-08-28,2023-09-25,28
+Vitão,428783,Entorse no joelho,2023-05-15,2023-05-24,9
+Vitão,428783,Lesão desconhecida,2021-10-02,2021-10-14,12
+Vitão,428783,Lesão desconhecida,2020-12-09,2021-01-01,23
 Agustín Giay,849582,Entorse do tornozelo,2023-01-25,2023-02-22,28
 Júnior Alonso,273000,Problemas no Joelho,2022-11-09,2023-01-02,54
 Lucas Piton,670201,Problemas musculares,2024-07-29,2024-08-17,19
@@ -113,18 +113,10 @@ Ayrton Lucas,349585,Lesão na coxa,2024-05-29,2024-06-20,22
 Ayrton Lucas,349585,Traumatismo no metatarso,2022-03-19,2022-03-31,12
 Ayrton Lucas,349585,Constipação,2020-11-09,2020-11-15,6
 Ayrton Lucas,349585,lesão na perna,2018-05-16,2018-06-08,23
-Vitão,428783,Lesão na coxa,2024-07-16,2024-08-03,18
-Vitão,428783,Lesão na coxa,2023-08-28,2023-09-25,28
-Vitão,428783,Entorse no joelho,2023-05-15,2023-05-24,9
-Vitão,428783,Lesão desconhecida,2021-10-02,2021-10-14,12
-Vitão,428783,Lesão desconhecida,2020-12-09,2021-01-01,23
 Luan Cândido,432166,Entorse do tornozelo,2024-08-26,2024-10-18,53
 Luan Cândido,432166,lesão na perna,2023-02-27,2023-06-26,119
 Gustavo Gómez,215390,Fratura no pé,2024-02-19,2024-03-27,37
 Gustavo Gómez,215390,Fadiga muscular,2017-03-25,2017-04-02,8
-Wesley,964580,Lesão na coxa,2024-08-19,2024-08-24,5
-Wesley,964580,Lesão na coxa,2024-07-21,2024-07-27,6
-Wesley,964580,Lesão nos adutores,2024-03-28,2024-04-16,19
 Fabrício Bruno,432773,Fratura do nariz,2024-03-02,2024-03-05,3
 Fabrício Bruno,432773,Fratura de um dedo do pé,2022-03-30,2022-07-16,108
 Alex Telles,255755,Fratura da virilha,2024-06-01,2024-08-11,71
@@ -141,17 +133,24 @@ Alex Telles,255755,Lesão no joelho,2018-02-22,2018-03-28,34
 Alex Telles,255755,Lesão desconhecida,2013-10-06,2013-10-11,5
 Alex Telles,255755,Lesão desconhecida,2013-09-09,2013-09-13,4
 Alex Telles,255755,Lesão desconhecida,2013-02-22,2013-04-12,49
-Vitinho,468249,Lesão no joelho,2023-08-30,2023-09-25,26
-João Victor,671145,Lesão no joelho,2024-07-01,2024-08-09,39
-João Victor,671145,Lesão tornozelo,2022-07-08,2022-09-24,78
+Wesley,964580,Lesão na coxa,2024-08-19,2024-08-24,5
+Wesley,964580,Lesão na coxa,2024-07-21,2024-07-27,6
+Wesley,964580,Lesão nos adutores,2024-03-28,2024-04-16,19
 Marlon,406675,Lesão no peito,2024-07-08,2024-07-21,13
 Marlon,406675,Rotura do menisco lateral,2022-10-23,2022-12-02,40
 Marlon,406675,Lesão desconhecida,2022-09-30,2022-10-14,14
 Marlon,406675,Coronavírus,2021-02-17,2021-02-27,10
 Marlon,406675,Lesão na coxa,2020-09-08,2020-09-22,14
 Marlon,406675,Lesão no joelho,2019-12-07,2019-12-30,23
+Vitinho,468249,Lesão no joelho,2023-08-30,2023-09-25,26
+João Victor,671145,Lesão no joelho,2024-07-01,2024-08-09,39
+João Victor,671145,Lesão tornozelo,2022-07-08,2022-09-24,78
 Félix Torres,468174,Lesão na coxa,2024-11-21,2024-11-21,16
 Félix Torres,468174,Lesão muscular,2022-08-29,2022-09-16,18
+Eros Mancuso,888545,Lesão nos adutores,2024-07-29,2024-08-23,25
+Eros Mancuso,888545,Distensão muscular,2024-07-22,2024-07-26,4
+Eros Mancuso,888545,Distensão muscular,2024-07-02,2024-07-09,7
+Eros Mancuso,888545,Lesão muscular,2024-03-01,2024-03-11,10
 Adryelson,373433,Pubalgia,2019-11-19,2019-12-31,42
 Adryelson,373433,Lesão no pé,2019-08-01,2019-08-03,2
 Iago,520468,Lesão muscular,2024-10-29,2024-10-29,39
@@ -171,24 +170,22 @@ Iago,520468,Traumatismo,2020-11-30,2020-12-17,17
 Iago,520468,Problemas musculares,2020-06-01,2020-08-17,77
 Matheuzinho,594226,Entorse do tornozelo,2024-05-08,2024-05-27,19
 Matheuzinho,594226,lesão na perna,2023-03-15,2023-06-30,107
-Rubens,843397,Lesão na coxa,2024-10-11,2024-10-18,7
-Rubens,843397,Entorse no joelho,2024-04-17,2024-07-30,104
-Rubens,843397,Fratura da mão,2024-03-18,2024-04-13,26
-Adryelson,373433,Pubalgia,2019-11-19,2019-12-31,42
-Adryelson,373433,Lesão no pé,2019-08-01,2019-08-03,2
+João Pedro,342024,Problemas musculares,2023-04-29,2023-05-22,23
+João Pedro,342024,Lesão desconhecida,2018-12-23,2019-01-27,35
 William,341710,Lesão no joelho,2021-11-11,2023-01-24,439
 William,341710,Recuperação ritmo competitivo,2021-11-01,2021-11-10,9
 William,341710,Rotura dos ligamentos cruzados,2021-05-05,2021-10-31,179
 William,341710,Rotura dos ligamentos cruzados,2020-02-09,2020-10-23,257
+Rubens,843397,Lesão na coxa,2024-10-11,2024-10-18,7
+Rubens,843397,Entorse no joelho,2024-04-17,2024-07-30,104
+Rubens,843397,Fratura da mão,2024-03-18,2024-04-13,26
 Leonardo Godoy,369556,Lesão muscular,2024-01-16,2024-02-24,39
 Leonardo Godoy,369556,Lesão no joelho,2023-08-25,2023-09-10,16
 Leonardo Godoy,369556,Lesão muscular,2023-06-23,2023-07-08,15
 Leonardo Godoy,369556,Lesão muscular,2023-02-12,2023-02-28,16
 Leonardo Godoy,369556,Fratura do perónio,2019-02-16,2019-08-19,184
-Pedro Henrique,329720,Lesão na coxa,2024-08-11,2024-09-14,34
-Pedro Henrique,329720,Pubalgia,2024-07-29,2024-08-06,8
-Pedro Henrique,329720,Lesão no tornozelo,2023-07-14,2023-10-02,80
-Caio Paulista,601011,Distensão muscular,2023-08-10,2023-08-28,18
+Zé Ivaldo,484848,Coronavírus,2020-11-24,2020-12-10,16
+Zé Ivaldo,484848,Edema do osso,2019-07-12,2019-08-30,49
 Cuiabano,891353,Lesão na coxa,2024-09-04,2024-10-04,30
 Cuiabano,891353,Lesão no ombro,2024-08-22,2024-08-30,8
 Cuiabano,891353,Lesão muscular,2024-02-05,2024-04-13,68
@@ -203,26 +200,23 @@ Jamal Lewis,346018,Amigdalite,2020-01-05,2020-01-10,5
 Jamal Lewis,346018,Lesão no joelho,2019-11-18,2019-11-30,12
 Jamal Lewis,346018,lesão no braço,2019-09-29,2019-10-04,5
 Jamal Lewis,346018,Lesão no joelho,2017-07-31,2018-01-01,154
+Pedro Henrique,329720,Lesão na coxa,2024-08-11,2024-09-14,34
+Pedro Henrique,329720,Pubalgia,2024-07-29,2024-08-06,8
+Pedro Henrique,329720,Lesão no tornozelo,2023-07-14,2023-10-02,80
 Nahuel Ferraresi,466336,Rotura de ligamentos no joelho,2023-01-22,2023-09-25,246
+Caio Paulista,601011,Distensão muscular,2023-08-10,2023-08-28,18
 Welington,729264,Lesão na coxa,2024-11-04,2024-11-04,33
 Welington,729264,Lesão nos ligamentos do tornozelo,2024-04-30,2024-05-12,12
 Welington,729264,Lesão no tornozelo,2023-03-13,2023-06-29,108
 Welington,729264,Ligamento Esticado,2023-02-12,2023-03-04,20
 Welington,729264,Lesão na anca,2021-08-08,2021-09-10,33
 Welington,729264,Coronavírus,2021-03-10,2021-03-27,17
-Zé Ivaldo,484848,Coronavírus,2020-11-24,2020-12-10,16
-Zé Ivaldo,484848,Edema do osso,2019-07-12,2019-08-30,49
-Diego Palacios,425567,Operado ao joelho,2024-06-19,2024-06-19,171
-Diego Palacios,425567,Lesão no joelho,2024-01-29,2024-06-11,134
-Diego Palacios,425567,Problemas no Joelho,2021-08-16,2021-08-26,10
-Diego Palacios,425567,Coronavírus,2020-11-14,2020-11-30,16
-Gilberto,231614,Problemas musculares na coxa,2024-08-05,2024-08-31,26
-Gilberto,231614,Gripe,2023-01-09,2023-01-12,3
-Gilberto,231614,Amigdalite,2022-02-01,2022-02-09,8
-Gilberto,231614,Lesão muscular,2021-02-12,2021-02-16,4
-Gilberto,231614,Coronavírus,2021-01-19,2021-01-27,8
-Gilberto,231614,Lesão desconhecida,2015-09-29,2015-10-25,26
+Gustavo Martins,874223,Problemas musculares na coxa,2024-10-05,2024-11-19,45
+Gustavo Martins,874223,Problemas musculares,2024-07-11,2024-07-30,19
+Gustavo Martins,874223,Lesão na virilha,2024-06-27,2024-07-06,9
+Gustavo Martins,874223,Lesão na coxa,2024-05-01,2024-05-31,30
 Juninho Capixaba,406676,Lesão no joelho,2024-07-25,2024-10-18,85
+Guga,592344,Coronavírus,2020-11-18,2020-12-03,15
 Rodrigo Ely,176140,Lesão no pé,2024-11-27,2024-11-27,10
 Rodrigo Ely,176140,Problemas musculares na coxa,2024-08-26,2024-10-08,43
 Rodrigo Ely,176140,Lesão muscular,2024-07-07,2024-07-13,6
@@ -238,11 +232,22 @@ Rodrigo Ely,176140,Problemas musculares,2017-05-08,2017-05-25,17
 Rodrigo Ely,176140,Lesão muscular,2017-01-31,2017-02-28,28
 Rodrigo Ely,176140,Distorção do tornozelo,2016-04-27,2016-05-28,31
 Rodrigo Ely,176140,Fratura do Metatarso,2016-01-11,2016-03-16,65
-Gustavo Martins,874223,Problemas musculares na coxa,2024-10-05,2024-11-19,45
-Gustavo Martins,874223,Problemas musculares,2024-07-11,2024-07-30,19
-Gustavo Martins,874223,Lesão na virilha,2024-06-27,2024-07-06,9
-Gustavo Martins,874223,Lesão na coxa,2024-05-01,2024-05-31,30
-Guga,592344,Coronavírus,2020-11-18,2020-12-03,15
+Gilberto,231614,Problemas musculares na coxa,2024-08-05,2024-08-31,26
+Gilberto,231614,Gripe,2023-01-09,2023-01-12,3
+Gilberto,231614,Amigdalite,2022-02-01,2022-02-09,8
+Gilberto,231614,Lesão muscular,2021-02-12,2021-02-16,4
+Gilberto,231614,Coronavírus,2021-01-19,2021-01-27,8
+Gilberto,231614,Lesão desconhecida,2015-09-29,2015-10-25,26
+Diego Palacios,425567,Operado ao joelho,2024-06-19,2024-06-19,171
+Diego Palacios,425567,Lesão no joelho,2024-01-29,2024-06-11,134
+Diego Palacios,425567,Problemas no Joelho,2021-08-16,2021-08-26,10
+Diego Palacios,425567,Coronavírus,2020-11-14,2020-11-30,16
+Mayke,147361,Lesão na panturrilha,2024-08-25,2024-10-19,55
+Mayke,147361,Lesão na panturrilha,2024-08-08,2024-08-20,12
+Mayke,147361,Problemas musculares,2024-07-22,2024-08-06,15
+Mayke,147361,Lesão na coxa,2024-02-04,2024-03-02,27
+Mayke,147361,Lesão na coxa,2019-08-19,2019-10-26,68
+Mayke,147361,Lesão desconhecida,2013-08-13,2013-08-15,2
 Lyanco,379807,Lesão desconhecida,2023-09-29,2024-01-31,124
 Lyanco,379807,Lesão na coxa,2022-02-05,2022-04-02,56
 Lyanco,379807,Coronavírus,2021-12-18,2022-01-03,16
@@ -254,42 +259,26 @@ Lyanco,379807,Operação ao pé,2018-05-10,2018-09-29,142
 Lyanco,379807,Lesão no pé,2017-12-23,2018-05-09,137
 Lyanco,379807,Distorção do tornozelo,2017-10-14,2017-11-03,20
 Lyanco,379807,Amigdalite,2017-08-06,2017-08-22,16
-Mayke,147361,Lesão na panturrilha,2024-08-25,2024-10-19,55
-Mayke,147361,Lesão na panturrilha,2024-08-08,2024-08-20,12
-Mayke,147361,Problemas musculares,2024-07-22,2024-08-06,15
-Mayke,147361,Lesão na coxa,2024-02-04,2024-03-02,27
-Mayke,147361,Lesão na coxa,2019-08-19,2019-10-26,68
-Mayke,147361,Lesão desconhecida,2013-08-13,2013-08-15,2
+Kaique Rocha,633377,Lesão na coxa,2024-11-10,2024-12-04,24
 Lucas Esquivel,829969,Pubalgia,2024-02-13,2024-03-15,31
-Mayke,147361,Lesão na panturrilha,2024-08-25,2024-10-19,55
-Mayke,147361,Lesão na panturrilha,2024-08-08,2024-08-20,12
-Mayke,147361,Problemas musculares,2024-07-22,2024-08-06,15
-Mayke,147361,Lesão na coxa,2024-02-04,2024-03-02,27
-Mayke,147361,Lesão na coxa,2019-08-19,2019-10-26,68
-Mayke,147361,Lesão desconhecida,2013-08-13,2013-08-15,2
-Lyanco,379807,Lesão desconhecida,2023-09-29,2024-01-31,124
-Lyanco,379807,Lesão na coxa,2022-02-05,2022-04-02,56
-Lyanco,379807,Coronavírus,2021-12-18,2022-01-03,16
-Lyanco,379807,Lumbago,2021-03-29,2021-04-18,20
-Lyanco,379807,Lesão no ligamento interno,2019-11-18,2020-01-15,58
-Lyanco,379807,Problemas musculares,2019-08-01,2019-09-04,34
-Lyanco,379807,Lesão desconhecida,2019-02-03,2019-02-20,17
-Lyanco,379807,Operação ao pé,2018-05-10,2018-09-29,142
-Lyanco,379807,Lesão no pé,2017-12-23,2018-05-09,137
-Lyanco,379807,Distorção do tornozelo,2017-10-14,2017-11-03,20
-Lyanco,379807,Amigdalite,2017-08-06,2017-08-22,16
+Alan Franco,503343,lesão na perna,2023-07-05,2023-07-20,15
+Alan Franco,503343,lesão na perna,2021-05-17,2021-05-25,8
+Alan Franco,503343,Fratura do Metatarso,2018-10-07,2018-12-25,79
+Diego Palacios,425567,Operado ao joelho,2024-06-19,2024-06-19,171
+Diego Palacios,425567,Lesão no joelho,2024-01-29,2024-06-11,134
+Diego Palacios,425567,Problemas no Joelho,2021-08-16,2021-08-26,10
+Diego Palacios,425567,Coronavírus,2020-11-14,2020-11-30,16
+José Luis Rodríguez,430339,Coronavírus,2020-11-19,2020-12-11,22
+José Luis Rodríguez,430339,Lesão no tornozelo,2018-03-20,2018-03-30,10
+Felipe Jonatan,587786,Rotura de ligamentos no joelho,2023-04-22,2024-01-01,254
+Felipe Jonatan,587786,Lesão desconhecida,2022-11-06,2023-02-16,102
+Léo,403296,Problemas musculares na coxa,2022-07-17,2022-07-25,8
+Léo,403296,Coronavírus,2021-03-09,2021-03-22,13
 Renzo Saravia,268642,Lesão na coxa,2024-09-16,2024-10-04,18
 Renzo Saravia,268642,Lesão muscular,2024-06-23,2024-07-10,17
 Renzo Saravia,268642,Lesão na coxa,2023-05-03,2023-05-16,13
 Renzo Saravia,268642,Lesão do ligamento cruzado,2020-09-29,2020-02-24,218
 Renzo Saravia,268642,Lesão no ombro,2018-11-05,2018-11-12,7
-Igor Vinícius,552240,Problemas físicos,2024-07-31,2024-09-11,42
-Igor Vinícius,552240,Lesão na coxa,2024-01-27,2024-02-25,29
-Igor Vinícius,552240,Pubalgia,2023-01-20,2023-07-28,189
-Igor Vinícius,552240,Pubalgia,2022-10-19,2022-12-01,43
-Igor Vinícius,552240,Lesão ocular,2021-09-20,2021-10-22,32
-Igor Vinícius,552240,Contra,2020-10-16,2020-10-31,15
-Ruan Tressoldi,555015,Lesão desconhecida,2023-10-02,2023-10-06,4
 Mauricio Lemos,303140,Lesão na coxa,2024-06-23,2024-08-31,69
 Mauricio Lemos,303140,Lesão nas costas,2024-05-05,2024-05-16,11
 Mauricio Lemos,303140,Lesão na panturrilha,2024-02-06,2024-03-08,31
@@ -303,6 +292,19 @@ Mauricio Lemos,303140,Lesão desconhecida,2018-08-09,2018-08-24,15
 Mauricio Lemos,303140,Lesão da parede abdominal,2017-11-27,2017-12-03,6
 Mauricio Lemos,303140,Entorse do tornozelo,2016-10-11,2016-10-15,4
 Mauricio Lemos,303140,Apendicite,2015-02-01,2015-03-09,36
+João Moreira,929866,Lesão na coxa,2024-08-18,2024-09-05,18
+João Moreira,929866,Lesão na coxa,2024-04-04,2024-04-29,25
+João Moreira,929866,Lesão muscular,2024-02-14,2024-03-02,17
+João Moreira,929866,Lesão dos ligamentos laterais do joelho,2022-10-29,2023-07-07,251
+João Moreira,929866,Lesão meniscal,2022-09-03,2022-10-11,38
+João Moreira,929866,Entorse do tornozelo,2022-06-05,2022-06-17,12
+Ruan Tressoldi,555015,Lesão desconhecida,2023-10-02,2023-10-06,4
+Igor Vinícius,552240,Problemas físicos,2024-07-31,2024-09-11,42
+Igor Vinícius,552240,Lesão na coxa,2024-01-27,2024-02-25,29
+Igor Vinícius,552240,Pubalgia,2023-01-20,2023-07-28,189
+Igor Vinícius,552240,Pubalgia,2022-10-19,2022-12-01,43
+Igor Vinícius,552240,Lesão ocular,2021-09-20,2021-10-22,32
+Igor Vinícius,552240,Contra,2020-10-16,2020-10-31,15
 Santiago Arias,120443,lesão na perna,2023-10-13,2023-11-02,20
 Santiago Arias,120443,Lesão na panturrilha,2023-04-17,2023-05-13,26
 Santiago Arias,120443,lesão na perna,2023-03-01,2023-03-15,14
@@ -318,6 +320,10 @@ Santiago Arias,120443,Lesão no pé,2015-02-20,2015-02-27,7
 Santiago Arias,120443,Lesão na virilha,2014-08-21,2014-08-30,9
 Santiago Arias,120443,Problemas musculares na coxa,2012-10-30,2012-11-23,24
 Santiago Arias,120443,Hematoma,2011-08-04,2011-08-09,5
+Luciano Juba,676035,Problemas musculares,2023-06-24,2023-06-29,5
+Ramon,663578,Lesão nos adutores,2024-08-11,2024-08-30,19
+Lucas Cunha,355496,Lesão dos ligamentos laterais do joelho,2023-04-30,2023-11-20,204
+Lucas Cunha,355496,Rotura de ligamentos no joelho,2018-12-06,2019-06-30,206
 André Ramalho,175792,Problemas musculares na coxa,2024-11-05,2024-11-19,14
 André Ramalho,175792,Lesão desconhecida,2022-04-28,2022-07-24,87
 André Ramalho,175792,Operação ao tornozelo,2021-12-23,2022-03-28,95
@@ -327,45 +333,25 @@ André Ramalho,175792,Lesão na coxa,2018-02-08,2018-02-15,7
 André Ramalho,175792,Recuperação ritmo competitivo,2016-10-24,2016-10-31,7
 André Ramalho,175792,Lesão na panturrilha,2016-09-12,2016-10-24,42
 André Ramalho,175792,Fratura do Metatarso,2012-05-31,2012-08-20,81
-Léo,403296,Problemas musculares na coxa,2022-07-17,2022-07-25,8
-Léo,403296,Coronavírus,2021-03-09,2021-03-22,13
-Luciano Juba,676035,Problemas musculares,2023-06-24,2023-06-29,5
-Lucas Cunha,355496,Lesão dos ligamentos laterais do joelho,2023-04-30,2023-11-20,204
-Lucas Cunha,355496,Rotura de ligamentos no joelho,2018-12-06,2019-06-30,206
-Felipe Jonatan,587786,Rotura de ligamentos no joelho,2023-04-22,2024-01-01,254
-Felipe Jonatan,587786,Lesão desconhecida,2022-11-06,2023-02-16,102
-João Moreira,929866,Lesão na coxa,2024-08-18,2024-09-05,18
-João Moreira,929866,Lesão na coxa,2024-04-04,2024-04-29,25
-João Moreira,929866,Lesão muscular,2024-02-14,2024-03-02,17
-João Moreira,929866,Lesão dos ligamentos laterais do joelho,2022-10-29,2023-07-07,251
-João Moreira,929866,Lesão meniscal,2022-09-03,2022-10-11,38
-João Moreira,929866,Entorse do tornozelo,2022-06-05,2022-06-17,12
-Ramon,663578,Lesão nos adutores,2024-08-11,2024-08-30,19
-José Luis Rodríguez,430339,Coronavírus,2020-11-19,2020-12-11,22
-José Luis Rodríguez,430339,Lesão no tornozelo,2018-03-20,2018-03-30,10
-Mateo Gamarra,661245,Traumatismo no joelho,2024-09-20,2024-09-25,5
-Mateo Gamarra,661245,Lesão na panturrilha,2024-05-06,2024-05-11,5
-Bruno Fuchs,563692,Lesão na coxa,2023-06-26,2023-07-28,32
-Bruno Fuchs,563692,Inflamação do tendão,2022-10-01,2022-10-24,23
-Bruno Fuchs,563692,Recuperação ritmo competitivo,2022-07-19,2022-08-14,26
-Bruno Fuchs,563692,Tendinite,2022-06-20,2022-07-18,28
-Bruno Fuchs,563692,Inflamação do dente,2022-05-11,2022-05-16,5
-Bruno Fuchs,563692,Vírus,2022-04-02,2022-04-07,5
-Bruno Fuchs,563692,Lesão muscular,2022-03-17,2022-04-01,15
-Bruno Fuchs,563692,Recuperação ritmo competitivo,2021-10-01,2021-10-25,24
-Bruno Fuchs,563692,Problemas musculares,2021-08-27,2021-09-30,34
-Bruno Fuchs,563692,Operação ao pé,2020-12-12,2021-04-24,133
-Bruno Fuchs,563692,Lesão na anca,2020-10-14,2020-12-08,55
-Bruno Fuchs,563692,Lesão na anca,2020-08-30,2020-10-11,42
-Robert Rojas,527494,Lesão na cabeça,2024-07-07,2024-07-16,9
-Robert Rojas,527494,Lesão na cabeça,2024-06-14,2024-06-25,11
-Robert Rojas,527494,Lesão no pé,2023-10-31,2023-11-09,9
-Robert Rojas,527494,Fratura da tíbia e do perónio,2022-04-07,2022-11-30,237
-Robert Rojas,527494,Pubalgia,2022-02-04,2022-02-18,14
-Robert Rojas,527494,Pubalgia,2021-07-26,2021-08-09,14
-Robert Rojas,527494,Coronavírus,2021-05-15,2021-05-23,8
-Robert Rojas,527494,Entorse na tibiotársica,2019-03-04,2019-03-27,23
-Wagner Leonardo,671572,Coronavírus,2021-01-10,2021-01-17,7
+Braian Aguirre,829378,Lesão nos adutores,2024-08-15,2024-09-21,37
+Braian Aguirre,829378,Entorse na tibiotársica,2023-10-11,2023-10-22,11
+Braian Aguirre,829378,Entorse do tornozelo,2023-05-16,2023-06-09,24
+Braian Aguirre,829378,Lesão no joelho,2023-03-09,2023-03-19,10
+Alex Sandro,79960,Problemas na panturrilha,2024-12-02,2024-12-02,5
+Alex Sandro,79960,Problemas musculares,2024-10-21,2024-11-02,12
+Alex Sandro,79960,Lesão na coxa,2024-10-03,2024-10-16,13
+Alex Sandro,79960,Recuperação ritmo competitivo,2024-08-24,2024-09-14,21
+Alex Sandro,79960,lesão na perna,2024-05-03,2024-05-13,10
+Alex Sandro,79960,Fadiga muscular,2024-03-30,2024-04-02,3
+Alex Sandro,79960,Lesão desconhecida,2023-12-28,2024-01-08,11
+Alex Sandro,79960,Lesão no bíceps femoral,2023-09-18,2023-11-22,65
+Alex Sandro,79960,Fadiga muscular,2023-04-12,2023-04-17,5
+Alex Sandro,79960,Lesão no bíceps femoral,2023-03-09,2023-03-29,20
+Alex Sandro,79960,Problemas musculares,2022-11-29,2022-12-07,8
+Alex Sandro,79960,Problemas musculares na coxa,2022-09-14,2022-10-02,18
+Alex Sandro,79960,Problemas na panturrilha,2022-03-15,2022-03-21,6
+Alex Sandro,79960,Lesão na panturrilha,2022-02-23,2022-03-10,15
+Alex Sandro,79960,Coronavírus,2022-01-31,2022-02-08,8
 Lucas Villalba,240913,Lesão ligamentar,2023-11-18,2023-12-18,30
 Lucas Villalba,240913,Coronavírus,2020-08-13,2020-08-27,14
 Thiago Almada,576028,Lesão na panturrilha,2024-05-17,2024-05-24,7
@@ -406,11 +392,11 @@ Raphael Veiga,432953,Lesão na coxa,2023-04-10,2023-04-24,14
 Raphael Veiga,432953,Artroscopia,2022-08-30,2023-01-01,124
 Raphael Veiga,432953,Lesão muscular,2022-06-05,2022-06-26,21
 Raphael Veiga,432953,Coronavírus,2020-11-20,2020-12-04,14
-Pablo Maia,892089,Lesão no bíceps femoral,2024-04-22,2024-04-22,229
 Gerson,341705,Problemas nos rins,2024-02-18,2024-04-11,53
 Gerson,341705,Problemas musculares na coxa,2023-05-01,2023-05-16,15
 Gerson,341705,Problemas na tibiotársica,2022-08-21,2022-08-30,9
 Gerson,341705,Coronavírus,2022-01-06,2022-01-13,7
+Pablo Maia,892089,Lesão no bíceps femoral,2024-04-22,2024-04-22,229
 Mauricio,678439,Estiramento do ligamento colateral interno do joelho,2024-10-12,2024-10-25,13
 Mauricio,678439,Traumatismo no joelho,2024-06-07,2024-07-16,39
 Mauricio,678439,Estiramento do ligamento colateral interno do joelho,2022-10-11,2022-10-25,14
@@ -422,8 +408,6 @@ Aníbal Moreno,642758,Problemas musculares,2023-07-08,2023-07-31,23
 Aníbal Moreno,642758,Problemas musculares,2023-05-05,2023-05-11,6
 Aníbal Moreno,642758,Rotura muscular na coxa,2023-04-11,2023-04-27,16
 Aníbal Moreno,642758,Problemas no Joelho,2023-02-11,2023-02-15,4
-Rodrigo Garro,565009,Lesão desconhecida,2022-10-11,2022-10-15,4
-Rodrigo Garro,565009,Lesão desconhecida,2022-02-20,2022-02-26,6
 Matías Zaracho,480774,Problemas musculares,2024-11-24,2024-11-24,13
 Matías Zaracho,480774,Púbis inflamado,2024-08-21,2024-11-02,73
 Matías Zaracho,480774,Lesão no púbis,2024-06-26,2024-07-30,34
@@ -432,11 +416,13 @@ Matías Zaracho,480774,Rotura de ligamentos do tornozelo,2023-01-07,2023-03-06,5
 Matías Zaracho,480774,Queixas adutores,2021-08-01,2021-08-10,9
 Matías Zaracho,480774,Contusão no tornozelo,2021-04-29,2021-05-18,19
 Matías Zaracho,480774,Problemas no Joelho,2018-11-05,2018-11-22,17
-Rodrigo Nestor,468304,Entorse do tornozelo,2024-09-02,2024-09-21,19
-Rodrigo Nestor,468304,Lesão no joelho,2023-11-06,2024-04-08,154
+Rodrigo Garro,565009,Lesão desconhecida,2022-10-11,2022-10-15,4
+Rodrigo Garro,565009,Lesão desconhecida,2022-02-20,2022-02-26,6
 Martinelli,815558,Lesão no tornozelo,2024-08-14,2024-08-19,5
 Martinelli,815558,Lesão na coxa,2023-04-03,2023-05-20,47
 Martinelli,815558,Traumatismo na anca,2021-09-12,2021-09-19,7
+Rodrigo Nestor,468304,Entorse do tornozelo,2024-09-02,2024-09-21,19
+Rodrigo Nestor,468304,Lesão no joelho,2023-11-06,2024-04-08,154
 Matheus Pereira,225984,Lesão no joelho,2023-08-08,2023-10-14,67
 Matheus Pereira,225984,Zerrung in der Oberschenkel- und Gesäßmuskulatur,2019-05-05,2019-06-01,27
 Matheus Henrique,552549,Fratura,2024-11-27,2024-11-27,10
@@ -470,12 +456,8 @@ Philippe Coutinho,80444,Problemas físicos,2017-10-26,2017-11-07,12
 Christian,658678,Lesão na coxa,2024-10-16,2024-11-15,30
 Christian,658678,Lesão na coxa,2023-07-25,2023-09-04,41
 Jean Lucas,578872,Coronavírus,2021-12-30,2022-01-06,7
-Giuliano Galoppo,567249,Artroscopia,2024-11-27,2024-11-27,10
-Giuliano Galoppo,567249,Traumatismo no pé,2024-07-22,2024-08-21,30
-Giuliano Galoppo,567249,Lesão no pé,2024-07-04,2024-07-16,12
-Giuliano Galoppo,567249,Lesão no joelho,2023-03-13,2023-11-17,249
-Giuliano Galoppo,567249,Coronavírus,2021-04-04,2021-04-16,12
-Giuliano Galoppo,567249,Rotura parcial de ligamento,2019-04-22,2019-10-22,183
+Caio Alexandre,727751,Operação ao pé,2021-08-24,2022-05-27,276
+Caio Alexandre,727751,Lesão no pé,2021-08-15,2021-08-23,8
 Caio Alexandre,727751,Operação ao pé,2021-08-24,2022-05-27,276
 Caio Alexandre,727751,Lesão no pé,2021-08-15,2021-08-23,8
 Jefferson Savarino,309193,Problemas na anca,2023-07-10,2023-07-14,4
@@ -691,6 +673,8 @@ Everton,321239,Coronavírus,2022-01-14,2022-01-20,6
 Everton,321239,Coronavírus,2021-01-24,2021-02-03,10
 Rony,371009,Braço fraturado,2023-04-10,2023-04-25,15
 Rony,371009,Coronavírus,2020-11-20,2020-11-28,8
+Nathan Fernandes,1083600,Pancada na coxa,2024-09-14,2024-09-27,13
+Nathan Fernandes,1083600,Entorse do tornozelo,2024-02-07,2024-02-24,17
 Wanderson,236202,Problemas musculares,2024-08-12,2024-09-15,34
 Wanderson,236202,Fadiga muscular,2024-07-14,2024-08-10,27
 Wanderson,236202,Entorse do tornozelo,2024-04-22,2024-06-08,47
@@ -711,13 +695,8 @@ Rafael Borré,323831,Choque,2020-12-03,2020-12-07,4
 Rafael Borré,323831,Coronavírus,2020-11-07,2020-11-18,11
 Rafael Borré,323831,Problemas na anca,2020-03-03,2020-03-07,4
 Rafael Borré,323831,Traumatismo no pé,2018-10-25,2018-10-30,5
-Nathan Fernandes,1083600,Pancada na coxa,2024-09-14,2024-09-27,13
-Nathan Fernandes,1083600,Entorse do tornozelo,2024-02-07,2024-02-24,17
-Matías Arezo,611426,Problemas musculares,2023-07-01,2023-07-10,9
-Matías Arezo,611426,Muskelkater,2023-06-30,2023-07-03,3
-Matías Arezo,611426,Lesão muscular,2023-03-14,2023-03-22,8
-Matías Arezo,611426,Lesão desconhecida,2021-02-02,2021-02-05,3
-Matías Arezo,611426,Lesão muscular,2020-11-13,2020-11-23,10
+Vitinho,670965,Constipação,2022-01-23,2022-01-25,2
+Thiago Borbas,743951,Lesão na coxa,2024-09-16,2024-09-16,82
 Gabriel Veron,627221,Lesão na coxa,2024-07-23,2024-09-05,44
 Gabriel Veron,627221,Operação ao pé,2024-01-23,2024-04-09,77
 Gabriel Veron,627221,Ruptura muscular na coxa,2023-10-11,2023-12-31,81
@@ -728,21 +707,21 @@ Gabriel Veron,627221,Lesão na coxa,2021-04-16,2021-07-10,85
 Gabriel Veron,627221,Coronavírus,2020-11-20,2020-11-28,8
 Gabriel Barbosa,244275,Problemas musculares na coxa,2024-09-16,2024-09-25,9
 Gabriel Barbosa,244275,Lesão na coxa,2024-08-16,2024-09-12,27
-Vitinho,670965,Constipação,2022-01-23,2022-01-25,2
 Michael,520392,Lesão na coxa,2024-08-29,2024-10-01,33
-Felipe Anderson,159372,Lesão num dedo do pé,2024-04-23,2024-04-26,3
-Felipe Anderson,159372,Choque,2020-07-02,2020-07-16,14
-Felipe Anderson,159372,Lesão nas costas,2020-01-12,2020-02-24,43
-Felipe Anderson,159372,Lesão no peito,2019-08-11,2019-08-23,12
-Felipe Anderson,159372,Rotura muscular,2019-08-11,2019-08-23,12
-Felipe Anderson,159372,Doente,2019-04-28,2019-05-11,13
-Felipe Anderson,159372,Lesão no tornozelo,2019-03-28,2019-04-07,10
-Felipe Anderson,159372,Lesão nos adutores,2017-07-31,2017-12-06,128
-Felipe Anderson,159372,Lesão no joelho,2015-01-15,2015-02-05,21
-Felipe Anderson,159372,Lesão no tornozelo,2013-06-06,2013-09-19,105
-Thiago Borbas,743951,Lesão na coxa,2024-09-16,2024-09-16,82
 Marquinhos,668268,Lesão na coxa,2024-07-29,2024-08-19,21
 Marquinhos,668268,Lesão na coxa,2024-06-22,2024-07-06,14
+Yeferson Soteldo,312294,Problemas musculares,2024-09-27,2024-10-01,4
+Yeferson Soteldo,312294,Problemas musculares na coxa,2024-02-01,2024-04-01,60
+Yeferson Soteldo,312294,Lesão muscular,2023-04-30,2023-05-22,22
+Yeferson Soteldo,312294,Lesão na coxa,2022-10-08,2023-01-15,99
+Yeferson Soteldo,312294,Problemas musculares na coxa,2018-09-19,2018-09-22,3
+Yeferson Soteldo,312294,Muskelbündelriss,2018-04-30,2018-05-12,12
+Yeferson Soteldo,312294,Lesão no joelho,2017-03-27,2017-04-06,10
+Matías Arezo,611426,Problemas musculares,2023-07-01,2023-07-10,9
+Matías Arezo,611426,Muskelkater,2023-06-30,2023-07-03,3
+Matías Arezo,611426,Lesão muscular,2023-03-14,2023-03-22,8
+Matías Arezo,611426,Lesão desconhecida,2021-02-02,2021-02-05,3
+Matías Arezo,611426,Lesão muscular,2020-11-13,2020-11-23,10
 Yeferson Soteldo,312294,Problemas musculares,2024-09-27,2024-10-01,4
 Yeferson Soteldo,312294,Problemas musculares na coxa,2024-02-01,2024-04-01,60
 Yeferson Soteldo,312294,Lesão muscular,2023-04-30,2023-05-22,22

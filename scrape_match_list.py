@@ -26,7 +26,7 @@ def scrape_match_data(player_url, player_name, driver):
                       cells = row.find_all("td")
                       if len(cells)>2:
                           data = {
-                              "Player": player_name,
+                              "Player Name": player_name,
                               "Player Id": player_url.split('/')[-1],
                               "Season": season,
                               "Date": cells[1].text.strip(),
