@@ -9,12 +9,15 @@ from sklearn.metrics import make_scorer, mean_absolute_error, mean_squared_error
 def rmse(y_true, y_pred):
     return np.sqrt(mean_squared_error(y_true, y_pred))
 
+def mape(y_true, y_pred, epsilon=1e-5):
+    return np.mean(np.abs((y_true - y_pred) / (y_true + epsilon))) * 100
+
 # Define the scoring metrics
 scoring_metrics = {
     "MAE": make_scorer(mean_absolute_error, greater_is_better=False),
     "MSE": make_scorer(mean_squared_error, greater_is_better=False),
     "RMSE": make_scorer(rmse, greater_is_better=False),
-    "MAPE": make_scorer(mean_absolute_percentage_error, greater_is_better=False),
+    "MAPE": make_scorer(mape, greater_is_better=False),
     "R²": make_scorer(r2_score),
     "Explained Variance": make_scorer(explained_variance_score),
 }
