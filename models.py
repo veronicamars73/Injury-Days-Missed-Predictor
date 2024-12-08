@@ -1,60 +1,62 @@
 import pandas as pd
 import numpy as np
-from sklearn.model_selection import train_test_split
+from sklearn.model_selection import cross_val_score, KFold
 from sklearn.linear_model import Ridge, Lasso
 from sklearn.ensemble import RandomForestRegressor
-from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score, mean_absolute_percentage_error, explained_variance_score
+from sklearn.metrics import make_scorer, mean_absolute_error, mean_squared_error, r2_score, explained_variance_score, mean_absolute_percentage_error
 
-# Função para calcular as métricas de avaliação
-def evaluate_model(y_test, predictions, model_name):
-    return {
-        "Model": model_name,
-        "MAE": mean_absolute_error(y_test, predictions),
-        "MSE": mean_squared_error(y_test, predictions),
-        "RMSE": np.sqrt(mean_squared_error(y_test, predictions)),
-        "MAPE": mean_absolute_percentage_error(y_test, predictions),
-        "R²": r2_score(y_test, predictions),
-        "Explained Variance": explained_variance_score(y_test, predictions)
-    }
+# Define custom metrics
+def rmse(y_true, y_pred):
+    return np.sqrt(mean_squared_error(y_true, y_pred))
+
+# Define the scoring metrics
+scoring_metrics = {
+    "MAE": make_scorer(mean_absolute_error, greater_is_better=False),
+    "MSE": make_scorer(mean_squared_error, greater_is_better=False),
+    "RMSE": make_scorer(rmse, greater_is_better=False),
+    "MAPE": make_scorer(mean_absolute_percentage_error, greater_is_better=False),
+    "R²": make_scorer(r2_score),
+    "Explained Variance": make_scorer(explained_variance_score),
+}
+
+# Define cross-validation
+kf = KFold(n_splits=5, shuffle=True, random_state=7)
+
+
+# Models to evaluate
+models = {
+    "Random Forest Regressor": RandomForestRegressor(random_state=7),
+    "Ridge Regression": Ridge(),
+    "Lasso Regression": Lasso(),
+}
 
 # Read Preprocessed CSV
 final_df = pd.read_csv('assets/final_injury_dataset_for_ml.csv')
 #final_df.drop('Injury Type', axis=1, inplace=True)
 
+# Results dataframe
+results = []
+
 # Prepare the features (X) and target (y)
-X = final_df.drop('Days Missed', axis=1)  # Features (all columns except 'Days Missed')
+X = final_df.drop('Days Missed', axis=1)  # Features
 y = final_df['Days Missed']  # Target variable
 
-# Split the data into training and testing sets
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
+# Perform cross-validation
+for model_name, model in models.items():
+    for metric_name, scoring in scoring_metrics.items():
+        scores = cross_val_score(model, X, y, cv=kf, scoring=scoring)
+        mean_score = scores.mean()
+        std_score = scores.std()
+        results.append({
+            "Model": model_name,
+            "Metric": metric_name,
+            "Mean Score": -mean_score if "MAE" in metric_name or "MSE" in metric_name or "RMSE" in metric_name or "MAPE" in metric_name else mean_score,
+            "Std Dev": std_score,
+        })
 
-# Avaliação dos modelos
-models_results = []
+# Convert results to dataframe
+cv_results = pd.DataFrame(results)
 
-""" Baseline models """
+print(cv_results)
 
-# Ridge Regression model (used as baseline model)
-ridge = Ridge(alpha=1.0)
-ridge.fit(X_train, y_train)
-ridge = Ridge(alpha=1.0)
-ridge.fit(X_train, y_train)
-ridge_pred = ridge.predict(X_test)
-models_results.append(evaluate_model(y_test, ridge_pred, "Ridge Regression"))
-
-#  Lasso Regression model (baseline model)
-lasso = Lasso(alpha=0.1)
-lasso.fit(X_train, y_train)
-lasso_pred = lasso.predict(X_test)
-models_results.append(evaluate_model(y_test, lasso_pred, "Lasso Regression"))
-
-""" Random Forest Regressor """
-# Predict and evaluate the Random Forest model
-rf = RandomForestRegressor(n_estimators=100, random_state=42)
-rf.fit(X_train, y_train)
-rf_pred = rf.predict(X_test)
-models_results.append(evaluate_model(y_test, rf_pred, "Random Forest Regressor"))
-
-# Criar o dataframe com as métricas
-metrics_df = pd.DataFrame(models_results)
-metrics_df = metrics_df.sort_values(by="R²", ascending=False)
-print(metrics_df)
+cv_results.to_csv("assets/models_scores.csv", index=False)

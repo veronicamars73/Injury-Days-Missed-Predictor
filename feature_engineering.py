@@ -74,11 +74,11 @@ final_df.to_csv("assets/final_injury_dataset.csv", index=False)
 
 """ Pre-processing for the Machine Learning Model """
 
-# Step 1: Handle Missing Values
+# Handle Missing Values
 final_df['Cumulative Minutes Played'].fillna(0, inplace=True)
 final_df['Matches Played Before Injury'].fillna(0, inplace=True)
 
-# Step 2: Create Date Features (Year and Month)
+# Create Date Features (Year and Month)
 final_df['From Date'] = pd.to_datetime(final_df['From Date'], errors='coerce')
 final_df['Year'] = final_df['From Date'].dt.year
 final_df['Month'] = final_df['From Date'].dt.month
@@ -86,24 +86,21 @@ final_df['Month'] = final_df['From Date'].dt.month
 # Drop the 'From Date' column after extracting Year and Month
 final_df.drop('From Date', axis=1, inplace=True)
 
-# Step 3: Categorical Encoding (Label Encoding for 'Position' and 'Injury Type')
+# Categorical Encoding (Label Encoding for 'Position' and 'Injury Type')
 label_encoder = LabelEncoder()
 final_df['Position'] = label_encoder.fit_transform(final_df['Position'])
 final_df['Injury Type'] = label_encoder.fit_transform(final_df['Injury Type'])
 
-# Step 4: Scaling Numerical Features
+# Scaling Numerical Features
 scaler = StandardScaler()
 final_df[['Cumulative Minutes Played', 'Matches Played Before Injury', 'Age', 'Previous Injuries','Total Days Missed']] = scaler.fit_transform(
    final_df[['Cumulative Minutes Played', 'Matches Played Before Injury', 'Age', 'Previous Injuries','Total Days Missed']])
 
-# Step 5: Reset Index after dropping duplicates (if needed)
+# Reset Index after dropping duplicates (if needed)
 final_df.reset_index(drop=True, inplace=True)
 
-# Step 6: Drop the 'Player Name' column (not useful for prediction)
+# Drop the 'Player Name' column (not useful for prediction)
 final_df.drop('Player Name', axis=1, inplace=True)
 
-# Display the updated DataFrame
 print(final_df.head())
-
-# Save final dataset
 final_df.to_csv("assets/final_injury_dataset_for_ml.csv", index=False)
