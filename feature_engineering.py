@@ -1,6 +1,8 @@
 import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
 from sklearn.preprocessing import LabelEncoder, StandardScaler
-from datetime import datetime
+from scipy.stats import mstats
 
 # Read Cleaned DFs
 matches_df = pd.read_csv("assets/cleaned_matches.csv")
@@ -101,6 +103,19 @@ final_df.reset_index(drop=True, inplace=True)
 
 # Drop the 'Player Name' column (not useful for prediction)
 final_df.drop('Player Name', axis=1, inplace=True)
+
+# Checking outliers
+sns.boxplot(y=final_df['Days Missed'])
+plt.title("Distribution of Days Missed")
+plt.show()
+
+# Winsorize at 1% lower and upper bounds
+final_df['Days Missed'] = mstats.winsorize(final_df['Days Missed'], limits=[0.01, 0.05])
+
+# Checking outliers after winsorization
+sns.boxplot(y=final_df['Days Missed'])
+plt.title("Distribution of Days Missed")
+plt.show()
 
 print(final_df.head())
 final_df.to_csv("assets/final_injury_dataset_for_ml.csv", index=False)
