@@ -14,6 +14,7 @@ players_df = pd.read_csv("assets/cleaned_players.csv")
 # Separating injuries and matches by season
 injuries_df['From Date'] = pd.to_datetime(injuries_df['From Date'], errors='coerce')
 injuries_df["Season"] = injuries_df["From Date"].dt.year
+injuries_df = injuries_df[injuries_df['Season'] >= 2021]
 matches_df['Date'] = pd.to_datetime(matches_df['Date'], errors='coerce')
 matches_df["Season"] = matches_df["Date"].dt.year
 
@@ -110,7 +111,7 @@ plt.title("Distribution of Days Missed")
 plt.show()
 
 # Winsorize at 1% lower and upper bounds
-final_df['Days Missed'] = mstats.winsorize(final_df['Days Missed'], limits=[0.01, 0.05])
+final_df['Days Missed'] = mstats.winsorize(final_df['Days Missed'], limits=[0.01, 0.01])
 
 # Checking outliers after winsorization
 sns.boxplot(y=final_df['Days Missed'])
