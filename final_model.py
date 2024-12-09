@@ -126,16 +126,6 @@ plt.ylabel('Residuals')
 plt.title('Residual Plot')
 plt.show()
 
-# Hyperparameters from the final model
-best_params = {
-    'bootstrap': True,
-    'max_depth': 25,
-    'max_features': 'log2',
-    'min_samples_leaf': 2,
-    'min_samples_split': 5,
-    'n_estimators': 500,
-    'random_state': 42
-}
 
 # Initialize the model
 model = RandomForestRegressor(**best_params)
