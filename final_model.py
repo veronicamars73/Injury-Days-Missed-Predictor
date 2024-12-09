@@ -1,5 +1,5 @@
 from sklearn.ensemble import RandomForestRegressor
-from sklearn.model_selection import cross_val_score
+from sklearn.model_selection import cross_val_score, train_test_split
 from sklearn.metrics import (
     mean_absolute_error,
     mean_squared_error,
@@ -86,6 +86,28 @@ print("CVRMSE: ", cvrmse)
 print("Residual Mean: ", residual_mean)
 print("Residual Std: ", residual_std)
 
+data = {
+    'Cross-Validation Mean MSE': [mean_cv_mse],
+    'Cross-Validation Std MSE': [std_cv_mse],
+    'Training MAE': [mae],
+    'Training MSE': [mse],
+    'Training RMSE': [rmse],
+    'Training R²': [r2],
+    'Training Explained Variance': [explained_variance],
+    'Training MedAE': [medae],
+    'Training MAPE': [mape],
+    'Normalized RMSE': [nrmse],
+    'CVRMSE': [cvrmse],
+    'Residual Mean': [residual_mean],
+    'Residual Std': [residual_std]
+}
+
+model_performance_df = pd.DataFrame(data)
+print(model_performance_df)
+
+# Save results
+model_performance_df.to_csv("assets/model_performance_results.csv", index=False)
+
 # Plot feature importance
 plt.figure(figsize=(10, 6))
 plt.barh(feature_importances['Feature'], feature_importances['Importance'])
@@ -103,3 +125,63 @@ plt.xlabel('Predicted Values')
 plt.ylabel('Residuals')
 plt.title('Residual Plot')
 plt.show()
+
+# Hyperparameters from the final model
+best_params = {
+    'bootstrap': True,
+    'max_depth': 25,
+    'max_features': 'log2',
+    'min_samples_leaf': 2,
+    'min_samples_split': 5,
+    'n_estimators': 500,
+    'random_state': 42
+}
+
+# Initialize the model
+model = RandomForestRegressor(**best_params)
+
+# Monte Carlo Cross-Validation
+n_splits = 30  # Number of random splits
+test_size = 0.2
+results = []
+
+for i in range(n_splits):
+    # Randomly split the data
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=test_size, random_state=i)
+    
+    # Train the model
+    model.fit(X_train, y_train)
+    
+    # Predict on the test set
+    y_pred = model.predict(X_test)
+    
+    # Calculate metrics
+    mae = mean_absolute_error(y_test, y_pred)
+    mse = mean_squared_error(y_test, y_pred)
+    rmse = np.sqrt(mse)
+    r2 = r2_score(y_test, y_pred)
+    explained_variance = explained_variance_score(y_test, y_pred)
+    
+    # Store results
+    results.append({
+        'Split': i + 1,
+        'MAE': mae,
+        'MSE': mse,
+        'RMSE': rmse,
+        'R²': r2,
+        'Explained Variance': explained_variance
+    })
+
+# Summarize results
+results_df = pd.DataFrame(results)
+summary = results_df.describe().T[['mean', 'std']]
+
+# Output results
+print("\nMonte Carlo Cross-Validation Results:")
+print(results_df)
+print("\nSummary:")
+print(summary)
+
+# Save results
+results_df.to_csv("assets/monte_carlo_results.csv", index=False)
+
